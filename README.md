@@ -1,6 +1,6 @@
 # myTransformer
 对于Transformer，一直是学了忘，忘了学，最近终于下定决心尝试自己写一遍Transformer的代码
----
+
 仓库中的文件目录如下：
 - `transformer.py` ：我自己参考pytorch对Transformer官方实现写的代码，删去了一些corner case的判断，使得代码尽可能的精简
 - `transformer.ipynb`：照着B站一个大佬`deep-thoughts`的复现视频照着敲的，对于作者代码中一些自己不理解的地方做了分析和解释
