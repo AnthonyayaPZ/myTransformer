@@ -1,0 +1,2 @@
+# myTransformer
+对于Transformer，一直是学了忘，忘了学，最近终于下定决心尝试自己写一遍Transformer的代码
